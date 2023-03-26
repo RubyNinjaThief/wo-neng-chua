@@ -18,6 +18,10 @@ li a {
 
 body {
   background-color:orange;
-  color: #48e09c;
   
+}
+
+h1 h2 p {
+  background-color: #48e09c;
+  color: white;
 }
