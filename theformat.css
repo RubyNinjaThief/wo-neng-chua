@@ -1,0 +1,22 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+  color: #48e09c;
+}
+
+li a {
+  display: block;
+  padding: 6px;
+  background-color: tomato;
+}
+
+body {
+  color:orange;
+  
+}
