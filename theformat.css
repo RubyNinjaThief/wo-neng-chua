@@ -21,7 +21,7 @@ body {
   
 }
 
-h1 h2 p {
+h1, h2, p {
   background-color: #48e09c;
   color: white;
 }
