@@ -13,15 +13,15 @@ li {
 li a {
   display: block;
   padding: 6px;
-  background-color: tomato;
+  background-color:tomato;
 }
 
 body {
-  background-color:orange;
+  background-color:#48e09c;
   
 }
 
 h1, h2, p {
-  background-color: #48e09c;
+  background-color:orange;
   color: white;
 }
