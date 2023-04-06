@@ -25,3 +25,17 @@ h1, h2, p {
   background-color:orange;
   color: white;
 }
+
+.pg-l {
+ margin-top:20px; 
+  display:block;
+}
+
+.pg-l img {
+ float:right; 
+  padding:10px;
+}
+
+.pg-l p {
+  
+}
