@@ -31,7 +31,7 @@ h1, h2, p {
   display:block;
 }
 
-.pg-l img {
+.pg-l img video {
  float:right; 
   padding:10px;
 }
