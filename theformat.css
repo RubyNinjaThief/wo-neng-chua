@@ -39,3 +39,8 @@ h1, h2, p {
 .pg-l p {
   
 }
+
+ol li {
+ background-color:tomato;
+  display:block;
+}
