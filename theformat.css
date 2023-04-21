@@ -22,6 +22,7 @@ body {
 }
 
 h1, h2, p {
+  display:block;
   background-color:orange;
   color: white;
 }
