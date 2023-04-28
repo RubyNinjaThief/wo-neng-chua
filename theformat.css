@@ -1,16 +1,16 @@
-ul {
+.nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
 }
 
-li {
+.nav li {
   float: left;
   color: #48e09c;
 }
 
-li a {
+.nav li a {
   display: block;
   padding: 6px;
   background-color:tomato;
