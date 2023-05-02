@@ -5,6 +5,10 @@ html {
   background-blend-mode: multiply;
 }
 
+table {
+background-color:rgba(255,255,255,0.7);  
+}
+
 .nav ul {
   list-style-type: none;
   margin: 0;
