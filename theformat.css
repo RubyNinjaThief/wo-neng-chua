@@ -5,7 +5,7 @@ html {
   background-blend-mode: multiply;
 }
 
-table {
+table,ul,ol {
 background-color:rgba(255,255,255,0.7);  
 }
 
