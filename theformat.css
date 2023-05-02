@@ -41,7 +41,7 @@ h1, h2, p {
 }
 
 .pg-l img,video {
- float:right; 
+ float:left; 
   padding:10px;
 }
 
