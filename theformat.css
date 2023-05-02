@@ -1,8 +1,9 @@
 html {
-      min-height:100%;
-      background:linear-gradient(0deg, rgba(72, 224, 156, 1), rgba(72, 224, 156, 1)), url(treasure.jpg);
-      background-size:cover;
-    }
+  min-height: 100%;
+  background: url(wizard.jpg) rgba(72, 224, 156, .3);
+  background-size: cover;
+  background-blend-mode: multiply;
+}
 
 .nav ul {
   list-style-type: none;
@@ -28,6 +29,7 @@ h1, h2, p {
   margin:auto;
   background-color:orange;
   color: black;
+  opacity:75%;
 }
 
 .pg-l {
